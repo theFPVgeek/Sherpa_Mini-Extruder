@@ -2,4 +2,4 @@ Sherpa Mini Ender3 Mount
 - can be used with stock hotend & fan setup
 - built in wire management
 
-https://github.com/theFPVgeek/Sherpa_Mini-Extruder/blob/master/Toolheads/theFPVgeek_Ender3/Images/IMG_7099.jpg
+![Image of Ender Mount](http://github.com/theFPVgeek/Sherpa_Mini-Extruder/blob/master/Toolheads/theFPVgeek_Ender3/Images/IMG_7099.jpg)
